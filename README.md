@@ -1,2 +1,2 @@
 # Bioinfo-Learning
-Personal code-notes on bioinformatics.
+Personal code notebooks on bioinformatics to educate myself. 
